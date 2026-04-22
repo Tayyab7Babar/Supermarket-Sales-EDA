@@ -1,0 +1,23 @@
+# Supermarket Sales Exploratory Data Analysis (EDA)
+
+This project focuses on extracting actionable business intelligence from supermarket sales data to optimize retail operations and marketing strategies.
+
+## 📊 Core Analysis Pillars
+1. **Product Power Analysis**: Categorizing inventory into "Profit Engines" and "Crowd Pleasers."
+2. **Member Value Audit**: Evaluating the ROI of loyalty programs across different city branches.
+3. **Operational Patterns**: Analyzing peak shopping hours and payment preferences to optimize staffing and digital infrastructure.
+
+## 🛠️ Technical Stack
+- **Language**: Python
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
+- **Environment**: VS Code / Jupyter Notebooks
+
+## 📈 Key Features
+- **Data Cleaning**: Handling missing values and data type conversions.
+- **Visualizations**: Dual-axis charts and quadrant matrices for trend detection.
+- **Machine Learning**: Predictive modeling (Classification and Regression) for customer ratings and payment method forecasting.
+
+## 🚀 Getting Started
+1. Clone the repository.
+2. Install requirements: `pip install pandas matplotlib seaborn scikit-learn`.
+3. Open the `.ipynb` file to view the analysis.
